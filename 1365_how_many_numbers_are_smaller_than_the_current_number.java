@@ -27,6 +27,7 @@ class Solution {
     }
 }
 
+//O(N^2)
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
        int[] ans = new int[nums.length];
